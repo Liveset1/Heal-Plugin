@@ -1,0 +1,12 @@
+name: Heal
+version: 1.12.0
+api: [3.0.0]
+main: HealPlugin\Heal\Main
+commands:
+  Heal:
+  description: Heal yourself
+permissions:
+  Heal/Plugin:
+  default: op
+   description: Allows Player To use /heal
+   children:
