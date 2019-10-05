@@ -1,6 +1,6 @@
 <?php
 
-namespace Test\Heal;
+namespace HealPlugin\Heal;
 
 use pocketmine\plugin\PluginBase;
 
