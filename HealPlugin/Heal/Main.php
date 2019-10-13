@@ -1,6 +1,6 @@
 <?php
 
-namespace Heal;
+namespace Liveset1\Heal;
 
 use pocketmine\plugin\PluginBase;
 
