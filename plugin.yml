@@ -1,14 +1,14 @@
 name: Heal
-main: Heal/Main
+main: Liveset1\Heal\Main
 author: Liveset1
 verison: 1.0
-api: [3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12]
+api: 3.0.0
 
 commands:
   Heal:
-  description: Heal yourself!
-permissions: heal.main.command
-  Heal:
-  default: false
-   description: Allows Player To use /heal
-   children:
+   description: "Heal yourself!"
+   permissions: heal.command
+ permissions:
+   day.command:
+    default: true
+  
