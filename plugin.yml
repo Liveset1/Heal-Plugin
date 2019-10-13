@@ -1,7 +1,7 @@
 name: Heal
 main: Liveset1\Heal\Main
 author: Liveset1
-verison: 1.0
+verison: 1.0.0
 api: 3.0.0
 
 commands:
